@@ -1,0 +1,21 @@
+# Meta files
+*.meta
+*.log
+*.tmp
+# Build output
+Build
+*.apk
+*.exe
+# Other
+Library/
+Assets/Plugins/Android/*
+/ProjectSettings/EditorBuildSettings.asset
+/UserSettings/
+/Library/AndroidPlayer
+/Library/Data
+# Unity Asset Store files
+/Assets/Standard Assets/
+/Assets/Plugins/
+
+# Unity packages
+/Packages/
